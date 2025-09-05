@@ -14,4 +14,4 @@ Teste de GitHub.
 
 blablabla.
 
-Gerisvaldo da Silva Pinto.
+Gerisvaldo.
