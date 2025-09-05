@@ -12,6 +12,4 @@ Teste de GitHub.
 
 
 
-blablabla.
-
 Gerisvaldo.
